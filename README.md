@@ -5,7 +5,7 @@ A frame for training and running vsiual trackers, we implement it based on **PyT
 - For researchers to have a better and easy experience for studying;
 # Components
 - dataset
-- data
+- datasampler
 - model
 - checkpoint
 - setting
